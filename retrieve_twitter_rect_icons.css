@@ -26,6 +26,10 @@
 		padding: 0px;
 	}
 
+	.hovercard.profile-card .ProfileCard-avatarImage {
+		border: 0px;
+	}
+
 	.modal-content {
 		border-radius: 0px;
 	}
@@ -51,16 +55,13 @@
 		border-radius: 0px;
 	}
 
-	.ProfileCard-avatarImage {
+	.ProfileCard-avatarImage,
+	.ProfileCardMini-avatarImage {
 		border-radius: 0px;
 	}
 
 	.ProfileCard-avatarLink {
 		border-radius: 0px;
-	}
-
-	.hovercard.profile-card .ProfileCard-avatarImage {
-		border: 0px;
 	}
 
 	/* top right area */
