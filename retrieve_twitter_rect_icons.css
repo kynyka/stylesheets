@@ -1,6 +1,10 @@
 @-moz-document domain("twitter.com") {
 
 	/* page show area */
+	.avatar	{
+    	border-radius: 0px;
+	}
+
 	.edge-design .avatar {
 		border-radius: 0px;
 	}
